@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_mode_done" msgid="7217581640461922289">"انجام شد"</string>
+    <string name="oppo_whichApplication">انجام دادن عمل با</string>
+    <string name="oppo_alwaysUse" msgid="4583018368000610438">این گزینه را پیش‌فرض کن</string>
+    <string name="oppo_power_shutdown_text">خاموش کردن</string>
+    <string name="oppo_power_vibrate_text">لرزش</string>
+    <string name="oppo_power_slient_text">بی‌صدا</string>
+    <string name="oppo_power_airplanemode_text">پرواز</string>
+    <string name="oppo_power_ring_text">زنگ زدن</string>
+    <string name="oppo_power_reboot_text">راه‌اندازی دوباره</string>
+    <string name="mmcmnc46001">UNICOM</string>
+    <string name="mmcmnc46000">CMCC</string>
+    <string name="mmcmnc46002">CMCC</string>
+    <string name="mmcmnc45406">Smartone-Vodafone</string>
+    <string name="mmcmnc45410">New World</string>
+    <string name="mmcmnc45412">CMCC Peoples</string>
+    <string name="mmcmnc45415">SmarTone Mobile Comms</string>
+    <string name="mmcmnc45416">PCCW</string>
+    <string name="mmcmnc45419">PCCW</string>
+    <string name="mmcmnc45500">SmarTone</string>
+    <string name="mmcmnc45501">CTM</string>
+    <string name="mmcmnc45503">Hutchison</string>
+    <string name="mmcmnc45504">CTM</string>
+    <string name="mmcmnc45505">Hutchison</string>
+    <string name="mmcmnc46601">FarEasTone</string>
+    <string name="mmcmnc46688">KG Telecom</string>
+    <string name="mmcmnc46689">VIBO</string>
+    <string name="mmcmnc46692">Chunghwa</string>
+    <string name="mmcmnc46693">MobiTai</string>
+    <string name="mmcmnc46697">TW Mobile</string>
+    <string name="mmcmnc46699">TransAsia</string>
+    <string name="oppo_loading">بارگذاری...</string>
+    <string name="oppo_modify_pkg_perms">اصلاح مجوزها</string>
+    <string name="oppo_modify_pkg_perms_detail">برای تغییر دادن مجوزهای برنامه به تنظیمات → عمومی → برنامه‌ها بروید!</string>
+    <string name="oppo_usb_selection">برای تغییر دادن تنظیم USB ضربه بزنید</string>
+    <string name="oppo_usb_charge">فقط شارژ کردن</string>
+    <string name="oppo_usb_storage">دستگاه حافظه</string>
+    <string name="oppo_usb_mtp">دستگاه رسانه (MTP)</string>
+    <string name="oppo_statusbar_key_swmgr">مدیر برنامه</string>
+    <string name="oppo_rename_dialog_title">تغییر نام</string>
+    <string name="oppo_rename_dialog_btn_ok">تایید</string>
+    <string name="oppo_rename_dialog_btn_cancel">لغو</string>
+    <string name="oppo_lunar_calendar_text">تقویم قمری</string>
+    <string name="oppo_solar_calendar_text">تقویم شمسی</string>
+    <string name="oppo_volume_system_description">صدای سیستم</string>
+    <string name="oppo_permission_security_title">هشدار امنیتی</string>
+    <string name="oppo_permission_security_label">" می‌خواهد "</string>
+    <string name="oppo_permission_settings_prompt">امکان تنظیم در \"پایش‌کننده مجوز\" وجود دارد</string>
+    <string name="oppo_permission_choice_label">این گزینه را حفظ کن</string>
+    <string name="oppo_reject_text">رد کردن</string>
+    <string name="oppo_allow_text">اجازه بده</string>
+    <string name="oppo_edittext_search">جستجو</string>
+    <string name="oppo_selecttext">انتخاب</string>
+    <string name="oppo_warning_volume_hintstr_exp">این گزینه را حفظ کن</string>
+    <string name="oppo_cancel_button_text">لغو</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="oppo_modify_pkg_perms">7790</string>
+    <string name="oppo_modify_pkg_perms_detail">7791</string>
+    <string name="oppo_usb_selection">7792</string>
+    <string name="oppo_usb_charge">7793</string>
+    <string name="oppo_usb_storage">7794</string>
+    <string name="oppo_usb_mtp">7795</string>
+    <string name="oppo_statusbar_key_swmgr">7796</string>
+    <string name="oppo_rename_dialog_title">7797</string>
+    <string name="oppo_rename_dialog_btn_ok">7798</string>
+    <string name="oppo_rename_dialog_btn_cancel">7799</string>
+    <string name="oppo_lunar_calendar_text">7800</string>
+    <string name="oppo_solar_calendar_text">7801</string>
+    <string name="oppo_selecttext">33654</string>
+    <string name="oppo_whichApplication">7726</string>
+    <string name="oppo_alwaysUse" msgid="4583018368000610438">7727</string>
+    <string name="oppo_power_shutdown_text">7728</string>
+    <string name="oppo_power_vibrate_text">7729</string>
+    <string name="oppo_power_slient_text">7730</string>
+    <string name="oppo_power_airplanemode_text">7731</string>
+    <string name="oppo_power_ring_text">7732</string>
+    <string name="oppo_power_reboot_text">7733</string>
+    <string name="mmcmnc46001">7734</string>
+    <string name="mmcmnc46000">7735</string>
+    <string name="mmcmnc46002">7736</string>
+    <string name="mmcmnc45406">7737</string>
+    <string name="mmcmnc45410">7738</string>
+    <string name="mmcmnc45412">7739</string>
+    <string name="mmcmnc45415">7740</string>
+    <string name="mmcmnc45416">7741</string>
+    <string name="mmcmnc45419">7742</string>
+    <string name="mmcmnc45500">7743</string>
+    <string name="mmcmnc45501">7744</string>
+    <string name="mmcmnc45503">7745</string>
+    <string name="mmcmnc45504">7746</string>
+    <string name="mmcmnc45505">7747</string>
+    <string name="mmcmnc46601">7748</string>
+    <string name="mmcmnc46688">7749</string>
+    <string name="mmcmnc46689">7750</string>
+    <string name="mmcmnc46692">7751</string>
+    <string name="mmcmnc46693">7752</string>
+    <string name="mmcmnc46697">7753</string>
+    <string name="mmcmnc46699">7754</string>
+    <string name="oppo_battery_charge_soc_fall">16334</string>
+    <string name="oppo_permission_security_title">7804</string>
+    <string name="oppo_permission_security_label">7805</string>
+    <string name="oppo_permission_settings_prompt">7806</string>
+    <string name="oppo_permission_choice_label">7807</string>
+    <string name="oppo_reject_text">7808</string>
+    <string name="oppo_allow_text">7809</string>
+    <string name="action_mode_done" msgid="7217581640461922289">7784</string>
+    <string name="oppo_wday_year_month_day" translatable="false">20363 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_wday_year_day_month" translatable="false">20364 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_wday_month_day_year" translatable="false">20365 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_wday_month_year_day" translatable="false">20366 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_wday_day_month_year" translatable="false">20367 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_year_month_day_wday" translatable="false">20369 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_year_day_month_wday" translatable="false">20370 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_month_day_year_wday" translatable="false">20371 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_month_year_day_wday" translatable="false">20372 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_day_month_year_wday" translatable="false">20373 %1$s %2$s %3$s %4$s</string>
+    <string name="oppo_day_year_month_wday" translatable="false">20374%1$s %2$s %3$s %4$s</string>
+    <string name="oppo_volume_system_description">7803</string>
+    <string name="oppo_loading">7785</string>
+    <string name="oppo_volume_unified_control">32490</string>
+    <string name="oppo_edittext_IME">32491</string>
+    <string name="oppo_edittext_translate">32492</string>
+    <string name="oppo_edittext_search">32493</string>
+    <string name="oppo_warning_volume_hintstr_exp">34219</string>
+    <string name="oppo_text_cut">34220</string>
+    <string name="oppo_text_copied">34221</string>
+    <string name="oppo_data_notification_info">34222</string>
+    <string name="oppo_data_not_enough_info">34223</string>
+    <string name="oppo_data_not_enough_title">34224</string>
+    <string name="oppo_sd_notification_info">34225</string>
+    <string name="oppo_sd_not_enough_info">34226</string>
+    <string name="oppo_sd_not_enough_title">34227</string>
+    <string name="oppo_cancel_button_text">34228</string>
+    <string name="oppo_data_manager_button_text">34229</string>
+    <string name="oppo_sd_clean_button_text">34230</string>
+</resources>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="oppo_select_ringtone_old">
+        <item>ringtone_001</item>
+        <item>ringtone_002</item>
+        <item>ringtone_003</item>
+        <item>ringtone_004</item>
+        <item>ringtone_005</item>
+        <item>ringtone_006</item>
+        <item>ringtone_007</item>
+        <item>ringtone_008</item>
+        <item>ringtone_009</item>
+        <item>ringtone_010</item>
+        <item>ringtone_011</item>
+        <item>ringtone_012</item>
+        <item>ringtone_013</item>
+        <item>ringtone_014</item>
+        <item>ringtone_015</item>
+        <item>ringtone_016</item>
+        <item>ringtone_017</item>
+        <item>ringtone_018</item>
+        <item>ringtone_019</item>
+        <item>ringtone_020</item>
+        <item>notification_001</item>
+        <item>notification_002</item>
+        <item>notification_003</item>
+        <item>notification_004</item>
+        <item>notification_005</item>
+        <item>notification_006</item>
+        <item>notification_007</item>
+        <item>notification_008</item>
+        <item>notification_009</item>
+        <item>notification_010</item>
+        <item>notification_011</item>
+        <item>notification_012</item>
+        <item>notification_013</item>
+        <item>notification_014</item>
+        <item>notification_015</item>
+        <item>alarm_001</item>
+        <item>alarm_002</item>
+        <item>alarm_003</item>
+        <item>alarm_004</item>
+        <item>alarm_005</item>
+        <item>alarm_006</item>
+        <item>alarm_007</item>
+        <item>alarm_008</item>
+    </string-array>
+    <string-array name="oppo_select_ringtone_new">
+        <item>Geniet</item>
+        <item>Siel</item>
+        <item>Kleurvolle lewe</item>
+        <item>Dans in die wind</item>
+        <item>Kleurvolle dag</item>
+        <item>Namiddag</item>
+        <item>Water</item>
+        <item>Pret</item>
+        <item>Geratel</item>
+        <item>Genot</item>
+        <item>Klassieke Luitoon 1</item>
+        <item>Klassieke Luitoon 2</item>
+        <item>Sagkens</item>
+        <item>Hartlik</item>
+        <item>Snaaks</item>
+        <item>Sonsopkoms</item>
+        <item>Vingerpunte spring</item>
+        <item>Nag</item>
+        <item>Pragtige dorp</item>
+        <item>Barbara</item>
+        <item>Vreugde</item>
+        <item>Skerm</item>
+        <item>Zoem</item>
+        <item>Eggo</item>
+        <item>Xilofoon</item>
+        <item>Akoestiese kitaar</item>
+        <item>Mira</item>
+        <item>Adara</item>
+        <item>Skyn</item>
+        <item>Vars</item>
+        <item>Harp</item>
+        <item>Tamboeryn</item>
+        <item>Voëls</item>
+        <item>Druppels</item>
+        <item>Stout</item>
+        <item>See</item>
+        <item>Woud</item>
+        <item>Helder</item>
+        <item>Ver weg</item>
+        <item>Vreugdevol</item>
+        <item>Alarm biep</item>
+        <item>Oggend</item>
+        <item>Sonnige namiddag</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>maak oproepe</item>
+        <item>lees oproeplog</item>
+        <item>lees kontakte</item>
+        <item>lees SMS/MMS</item>
+        <item>stuur SMS</item>
+        <item>stuur MMS</item>
+        <item>ontsper/versper selfoonnetwerk</item>
+        <item>ontsper/versper Wi-Fi-netwerk</item>
+        <item>ontsper/versper Bluetooth</item>
+        <item>kry ligging deur GPS te gebruik (Nota: toepassings kan ook ander maniere gebruik om jou ligging te kry)</item>
+        <item>gebruik die kamera</item>
+        <item>neem klank of oproepe op</item>
+        <item>ontsper/versper NFC</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>VM</item>
+        <item>NM</item>
+    </string-array>
+</resources>

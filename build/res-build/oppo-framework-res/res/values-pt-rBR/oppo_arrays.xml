@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="oppo_select_ringtone_old">
+        <item>ringtone_001</item>
+        <item>ringtone_002</item>
+        <item>ringtone_003</item>
+        <item>ringtone_004</item>
+        <item>ringtone_005</item>
+        <item>ringtone_006</item>
+        <item>ringtone_007</item>
+        <item>ringtone_008</item>
+        <item>ringtone_009</item>
+        <item>ringtone_010</item>
+        <item>ringtone_011</item>
+        <item>ringtone_012</item>
+        <item>ringtone_013</item>
+        <item>ringtone_014</item>
+        <item>ringtone_015</item>
+        <item>ringtone_016</item>
+        <item>ringtone_017</item>
+        <item>ringtone_018</item>
+        <item>ringtone_019</item>
+        <item>ringtone_020</item>
+        <item>notification_001</item>
+        <item>notification_002</item>
+        <item>notification_003</item>
+        <item>notification_004</item>
+        <item>notification_005</item>
+        <item>notification_006</item>
+        <item>notification_007</item>
+        <item>notification_008</item>
+        <item>notification_009</item>
+        <item>notification_010</item>
+        <item>notification_011</item>
+        <item>notification_012</item>
+        <item>notification_013</item>
+        <item>notification_014</item>
+        <item>notification_015</item>
+        <item>alarm_001</item>
+        <item>alarm_002</item>
+        <item>alarm_003</item>
+        <item>alarm_004</item>
+        <item>alarm_005</item>
+        <item>alarm_006</item>
+        <item>alarm_007</item>
+        <item>alarm_008</item>
+    </string-array>
+    <string-array name="oppo_select_ringtone_new">
+        <item>Curtir</item>
+        <item>Soul</item>
+        <item>Vida colorida</item>
+        <item>Dança no vento</item>
+        <item>Dia colorido</item>
+        <item>Tarde</item>
+        <item>Água</item>
+        <item>Diversão</item>
+        <item>Lectro beat</item>
+        <item>Deleite</item>
+        <item>Toque clássico 1</item>
+        <item>Toque clássico 2</item>
+        <item>Gentil</item>
+        <item>Cordial</item>
+        <item>Engraçado</item>
+        <item>Nascer do sol</item>
+        <item>Salto na ponta dos dedos</item>
+        <item>Noite</item>
+        <item>Vila bonita</item>
+        <item>Bárbara</item>
+        <item>Felicidade</item>
+        <item>Spar</item>
+        <item>Buzz</item>
+        <item>Eco</item>
+        <item>Xilofone</item>
+        <item>Guitarra acústica</item>
+        <item>Mira</item>
+        <item>Adara</item>
+        <item>Feixe</item>
+        <item>Fresh</item>
+        <item>Harpa</item>
+        <item>Tamborim</item>
+        <item>Pássaros</item>
+        <item>Gotas</item>
+        <item>Picante</item>
+        <item>Som do mar</item>
+        <item>Floresta</item>
+        <item>Brilhante</item>
+        <item>Distante</item>
+        <item>Alegria</item>
+        <item>Alarme eletrônico</item>
+        <item>Manhã</item>
+        <item>Tarde ensolarada</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>realizar chamadas</item>
+        <item>ler registro de chamadas</item>
+        <item>ler contatos</item>
+        <item>ler SMS/MMS</item>
+        <item>enviar SMS</item>
+        <item>enviar MMS</item>
+        <item>ativar/desativar rede móvel</item>
+        <item>ativar/desativar rede Wi-Fi</item>
+        <item>ativar/desativar Bluetooth</item>
+        <item>obter sua localização usando o GPS (observação: aplicativos também podem usar outros meios para obter sua localização)</item>
+        <item>utilizar a câmera</item>
+        <item>gravar sons ou chamadas</item>
+        <item>ativar/desativar NFC</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>

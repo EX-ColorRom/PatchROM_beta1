@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_mode_done" msgid="7217581640461922289">"Kwenziwe"</string>
+    <string name="oppo_rename_dialog_btn_ok">ok</string>
+    <string name="oppo_rename_dialog_btn_cancel">Cancel</string>
+    <string name="oppo_sd_not_enough_title">storage not enough</string>
+    <string name="oppo_cancel_button_text">Cancel</string>
+    <string name="mmcmnc46692">Chunghwa</string>
+    <string name="mmcmnc46697">TW Mobile</string>
+</resources>

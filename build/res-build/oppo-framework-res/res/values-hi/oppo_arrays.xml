@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="oppo_select_ringtone_old">
+        <item>ringtone_001</item>
+        <item>ringtone_002</item>
+        <item>ringtone_003</item>
+        <item>ringtone_004</item>
+        <item>ringtone_005</item>
+        <item>ringtone_006</item>
+        <item>ringtone_007</item>
+        <item>ringtone_008</item>
+        <item>ringtone_009</item>
+        <item>ringtone_010</item>
+        <item>ringtone_011</item>
+        <item>ringtone_012</item>
+        <item>ringtone_013</item>
+        <item>ringtone_014</item>
+        <item>ringtone_015</item>
+        <item>ringtone_016</item>
+        <item>ringtone_017</item>
+        <item>ringtone_018</item>
+        <item>ringtone_019</item>
+        <item>ringtone_020</item>
+        <item>notification_001</item>
+        <item>notification_002</item>
+        <item>notification_003</item>
+        <item>notification_004</item>
+        <item>notification_005</item>
+        <item>notification_006</item>
+        <item>notification_007</item>
+        <item>notification_008</item>
+        <item>notification_009</item>
+        <item>notification_010</item>
+        <item>notification_011</item>
+        <item>notification_012</item>
+        <item>notification_013</item>
+        <item>notification_014</item>
+        <item>notification_015</item>
+        <item>alarm_001</item>
+        <item>alarm_002</item>
+        <item>alarm_003</item>
+        <item>alarm_004</item>
+        <item>alarm_005</item>
+        <item>alarm_006</item>
+        <item>alarm_007</item>
+        <item>alarm_008</item>
+    </string-array>
+    <string-array name="oppo_select_ringtone_new">
+        <item>आनंद</item>
+        <item>आत्मा</item>
+        <item>रंगीन जीवन</item>
+        <item>पवन में नृत्य </item>
+        <item> रंगीन दिन</item>
+        <item>दोपहर</item>
+        <item>पानी</item>
+        <item> मज़ा</item>
+        <item>परेशान</item>
+        <item>आनंद</item>
+        <item> शास्त्रीय रिंगटोन 1</item>
+        <item> शास्त्रीय रिंगटोन 2</item>
+        <item>    कोमल</item>
+        <item> सौहार्दपूर्ण</item>
+        <item> अजीब बात</item>
+        <item> सूर्योदय</item>
+        <item>उंगलियों चलना</item>
+        <item> रात</item>
+        <item> सुंदर गांव</item>
+        <item> बारबरा</item>
+        <item>      आनन्द</item>
+        <item>बल्ला</item>
+        <item> बज़</item>
+        <item>अनुकरण करना</item>
+        <item>सिलाफ़न</item>
+        <item>ध्वनिक गिटार</item>
+        <item> मीरा</item>
+        <item>अदरा</item>
+        <item> बीम</item>
+        <item> ताजा</item>
+        <item> वीणा</item>
+        <item> डफ</item>
+        <item> पक्षी</item>
+        <item> बूंदों</item>
+        <item> शरारती</item>
+        <item> सागर</item>
+        <item> वन</item>
+        <item> उज्ज्वल</item>
+        <item> बहुत दूर</item>
+        <item> हर्षित</item>
+        <item> अलार्म बीप</item>
+        <item> सुबह</item>
+        <item> धूपदार दोपहर</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>कॉल करें</item>
+        <item>कॉल लॉग पढ़ें</item>
+        <item>संपर्क पढ़ें</item>
+        <item>SMS/MMS पढ़ें</item>
+        <item>SMS भेजें</item>
+        <item>MMS भेजें</item>
+        <item>मोबाइल नेटवर्क सक्षम/अक्षम करें</item>
+        <item>वाई-फ़ाई नेटवर्क सक्षम/अक्षम करें</item>
+        <item>ब्लूटूथ सक्षम/अक्षम करें</item>
+        <item>GPS का उपयोग करके अपना स्थान जानें (ध्यान दें: आपका स्थान जानने के लिए ऐप अन्य माध्यमों का उपयोग भी कर सकते हैं)</item>
+        <item>कैमरे का उपयोग करें</item>
+        <item>ध्वनि या कॉल रिकॉर्ड करें</item>
+        <item>NFC सक्षम/अक्षम करें</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>

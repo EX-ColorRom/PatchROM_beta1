@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="oppo_modify_pkg_perms">Ret tilladelser</string>
+    <string name="oppo_modify_pkg_perms_detail">Gå til Indstillinger→Normal→Administrér app for at ændre tilladelser!</string>
+    <string name="oppo_usb_selection">Tryk for at ændre USB-indstillinger</string>
+    <string name="oppo_usb_charge">Kun opladning</string>
+    <string name="oppo_usb_storage">Lagerenhed</string>
+    <string name="oppo_usb_mtp">"Medieenhed (MTP)"</string>
+    <string name="oppo_statusbar_key_swmgr">Programstyring</string>
+    <string name="oppo_rename_dialog_title">Omdøb</string>
+    <string name="oppo_rename_dialog_btn_ok">OK</string>
+    <string name="oppo_rename_dialog_btn_cancel">Annuller</string>
+    <string name="oppo_lunar_calendar_text">Månekalender</string>
+    <string name="oppo_solar_calendar_text">Gregoriansk kalender</string>
+    <string name="oppo_selecttext">Vælg</string>
+    <string name="oppo_whichApplication">Fuldfør handling med</string>
+    <string name="oppo_alwaysUse" msgid="4583018368000610438">Brug dette som standardindstilling</string>
+    <string name="oppo_power_shutdown_text">"Sluk"</string>
+    <string name="oppo_power_vibrate_text">Vibrér</string>
+    <string name="oppo_power_slient_text">Lydløs</string>
+    <string name="oppo_power_airplanemode_text">"Flytilstand"</string>
+    <string name="oppo_power_ring_text">Lyd</string>
+    <string name="oppo_power_reboot_text">Genstart</string>
+    <string name="mmcmnc46001">UNICOM</string>
+    <string name="mmcmnc46000">CMCC</string>
+    <string name="mmcmnc46002">CMCC</string>
+    <string name="mmcmnc45406">SmarTone-Vodafone</string>
+    <string name="mmcmnc45410">New World</string>
+    <string name="mmcmnc45412">CMCC Peoples</string>
+    <string name="mmcmnc45415">SmarTone Mobile Comms</string>
+    <string name="mmcmnc45416">PCCW</string>
+    <string name="mmcmnc45419">PCCW</string>
+    <string name="mmcmnc45500">SmarTone</string>
+    <string name="mmcmnc45501">CTM</string>
+    <string name="mmcmnc45503">Hutchison</string>
+    <string name="mmcmnc45504">CTM</string>
+    <string name="mmcmnc45505">Hutchison</string>
+    <string name="mmcmnc46601">FarEasTone</string>
+    <string name="mmcmnc46688">KG Telecom</string>
+    <string name="mmcmnc46689">VIBO</string>
+    <string name="mmcmnc46692">Chunghwa</string>
+    <string name="mmcmnc46693">MobiTai</string>
+    <string name="mmcmnc46697">TW Mobile</string>
+    <string name="mmcmnc46699">TransAsia</string>
+    <string name="oppo_permission_security_title">"Sikkerhedsadvarsel"</string>
+    <string name="oppo_permission_security_label">" prøver at "</string>
+    <string name="oppo_permission_settings_prompt">Du kan indstille dette under \'Tilladelser\'</string>
+    <string name="oppo_permission_choice_label">"Husk dette valg"</string>
+    <string name="oppo_reject_text">Afvis</string>
+    <string name="oppo_allow_text">"Tillad"</string>
+    <string name="action_mode_done" msgid="7217581640461922289">"Udført"</string>
+    <string name="oppo_wday_year_month_day" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_wday_year_day_month" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_wday_month_day_year" translatable="false">"%1$s, %2$s %3$s, %4$s"</string>
+    <string name="oppo_wday_month_year_day" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_wday_day_month_year" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_wday_day_year_month" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_year_month_day_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_year_day_month_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_month_day_year_wday" translatable="false">"%1$s %2$s, %3$s, %4$s"</string>
+    <string name="oppo_month_year_day_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_day_month_year_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_day_year_month_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_volume_system_description">Systemlydstyrke</string>
+    <string name="oppo_loading">Indlæser...</string>
+    <string name="oppo_volume_unified_control">Universel stemmestyring</string>
+    <string name="oppo_edittext_IME">"Inputmetode"</string>
+    <string name="oppo_edittext_translate">Oversæt</string>
+    <string name="oppo_edittext_search">Søg</string>
+    <string name="oppo_warning_volume_hintstr_exp">"Husk dette valg"</string>
+    <string name="oppo_sd_not_enough_title">Ikke nok lagerplads</string>
+    <string name="oppo_cancel_button_text">"Annuller"</string>
+    <string name="oppo_sd_clean_button_text">Rens</string>
+    <string name="oppo_text_cut">Tekst er afkortet</string>
+    <string name="oppo_text_copied">"Tekst kopieret"</string>
+    <string name="oppo_data_notification_info">Tryk for at åbne App-administration</string>
+    <string name="oppo_data_not_enough_info">Der er ikke nok plads til app\'en. Nogle systemfunktioner fungerer muligvis ikke korrekt. Det anbefales at frigøre noget plads.</string>
+    <string name="oppo_data_not_enough_title">Ikke nok plads til installation af app</string>
+    <string name="oppo_sd_notification_info">Tryk for at åbne Filhåndtering</string>
+    <string name="oppo_sd_not_enough_info">Ikke nok lagerplads. Nogle apps fungerer muligvis ikke korrekt. Det anbefales at rydde op i dine filer.</string>
+    <string name="oppo_data_manager_button_text">Administrér apps</string>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="oppo_modify_pkg_perms">Berechtigungen ändern</string>
+    <string name="oppo_modify_pkg_perms_detail">Gehen Sie zu Einstellungen→Allgemein→Anwendungsberechtigungen ändern.</string>
+    <string name="oppo_usb_selection">Bitte auswählen, um USB-Einstellungen zu ändern</string>
+    <string name="oppo_usb_charge">Nur Aufladen</string>
+    <string name="oppo_usb_storage">Speichergerät</string>
+    <string name="oppo_usb_mtp">Mediengerät (MTP)</string>
+    <string name="status_silent">Lautlos</string>
+    <string name="status_brightness">Helligkeit</string>
+    <string name="status_gps">GPS</string>
+    <string name="status_flight">Flugmodus</string>
+    <string name="status_hotspot">WLAN Hotspot</string>
+    <string name="status_3g">3G</string>
+    <string name="status_autosync">AutoSync</string>
+    <string name="oppo_statusbar_key_swmgr">Programm-Manager</string>
+    <string name="oppo_rename_dialog_title">Umbenennen</string>
+    <string name="oppo_rename_dialog_btn_ok">OK</string>
+    <string name="oppo_rename_dialog_btn_cancel">Abbrechen</string>
+    <string name="oppo_lunar_calendar_text">Mondkalender</string>
+    <string name="oppo_solar_calendar_text">Gregorianischer Kalender</string>
+    <string name="oppo_selecttext">Auswählen</string>
+    <string name="oppo_whichApplication">Aktion durchführen mit</string>
+    <string name="oppo_alwaysUse" msgid="4583018368000610438">Als Standardoperation nutzen</string>
+    <string name="oppo_power_shutdown_text">Ausschalten</string>
+    <string name="oppo_power_vibrate_text">Vibrieren</string>
+    <string name="oppo_power_slient_text">Lautlos</string>
+    <string name="oppo_power_airplanemode_text">Flugmodus</string>
+    <string name="oppo_power_ring_text">Klingeln</string>
+    <string name="oppo_power_reboot_text">Neustarten</string>
+    <string name="mmcmnc46001">UNICOM</string>
+    <string name="mmcmnc46000">CMCC</string>
+    <string name="mmcmnc46002">CMCC</string>
+    <string name="mmcmnc45406">SmarTone-Vodafone</string>
+    <string name="mmcmnc45410">New World</string>
+    <string name="mmcmnc45412">CMCC Peoples</string>
+    <string name="mmcmnc45415">SmarTone Mobile Comms</string>
+    <string name="mmcmnc45416">PCCW</string>
+    <string name="mmcmnc45419">PCCW</string>
+    <string name="mmcmnc45500">SmarTone</string>
+    <string name="mmcmnc45501">CTM</string>
+    <string name="mmcmnc45503">Hutchinson</string>
+    <string name="mmcmnc45504">CTM</string>
+    <string name="mmcmnc45505">3</string>
+    <string name="mmcmnc46601">FarEasTone</string>
+    <string name="mmcmnc46688">KG Telecom</string>
+    <string name="mmcmnc46689">VIBO</string>
+    <string name="mmcmnc46692">Chunghwa</string>
+    <string name="mmcmnc46693">MobiTai</string>
+    <string name="mmcmnc46697">TW Mobile</string>
+    <string name="mmcmnc46699">TransAsia</string>
+    <string name="wifi_p2p_noncuncurrency_message">Wi-Fi Direct starten. Dadurch wird die WLAN-Verbindung getrennt.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Dieser Vorgang trennt alle existierenden WLAN-Verbindungen.</string>
+    <string name="oppo_permission_security_title">Sicherheitswarnung</string>
+    <string name="oppo_permission_security_label">" versucht zu "</string>
+    <string name="oppo_permission_settings_prompt">Bitte stellen Sie die Optionen unter \"Einstellungen-Allgemeine Einstellungen für Sicherheit-Berechtigungs-Überwachung\" ein.</string>
+    <string name="oppo_permission_choice_label">Meine Entscheidung merken</string>
+    <string name="oppo_reject_text">Ablehnen</string>
+    <string name="oppo_allow_text">Erlauben</string>
+    <string name="action_mode_done" msgid="7217581640461922289">Fertig</string>
+    <string name="oppo_wday_year_month_day" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_wday_year_day_month" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_wday_month_day_year" translatable="false">"%1$s, %2$s %3$s, %4$s"</string>
+    <string name="oppo_wday_month_year_day" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_wday_day_month_year" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_wday_day_year_month" translatable="false">"%1$s, %2$s %3$s %4$s"</string>
+    <string name="oppo_year_month_day_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_year_day_month_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_month_day_year_wday" translatable="false">"%1$s %2$s, %3$s, %4$s"</string>
+    <string name="oppo_month_year_day_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_day_month_year_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_day_year_month_wday" translatable="false">"%1$s %2$s %3$s, %4$s"</string>
+    <string name="oppo_loading">Wird geladen...</string>
+    <string name="oppo_volume_system_description">Systemlautstärke</string>
+    <string name="oppo_volume_unified_control">Universelle Lautstärkeregelung</string>
+    <string name="oppo_edittext_IME">Eingabemethode</string>
+    <string name="oppo_edittext_translate">Übersetzen</string>
+    <string name="oppo_edittext_search">"Suchen"</string>
+    <string name="oppo_warning_volume_hintstr_exp">Meine Entscheidung merken</string>
+    <string name="oppo_sd_not_enough_title">Unzureichender Speicherplatz</string>
+    <string name="oppo_cancel_button_text">Abbrechen</string>
+    <string name="oppo_sd_clean_button_text">Säubern</string>
+    <string name="oppo_data_not_enough_title">Unzureichender Speicher für Installation der App</string>
+    <string name="oppo_data_manager_button_text">"Apps verwalten"</string>
+</resources>

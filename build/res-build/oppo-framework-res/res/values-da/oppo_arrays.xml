@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="oppo_select_ringtone_old">
+        <item>ringtone_001</item>
+        <item>ringtone_002</item>
+        <item>ringtone_003</item>
+        <item>ringtone_004</item>
+        <item>ringtone_005</item>
+        <item>ringtone_006</item>
+        <item>ringtone_007</item>
+        <item>ringtone_008</item>
+        <item>ringtone_009</item>
+        <item>ringtone_010</item>
+        <item>ringtone_011</item>
+        <item>ringtone_012</item>
+        <item>ringtone_013</item>
+        <item>ringtone_014</item>
+        <item>ringtone_015</item>
+        <item>ringtone_016</item>
+        <item>ringtone_017</item>
+        <item>ringtone_018</item>
+        <item>ringtone_019</item>
+        <item>ringtone_020</item>
+        <item>notification_001</item>
+        <item>notification_002</item>
+        <item>notification_003</item>
+        <item>notification_004</item>
+        <item>notification_005</item>
+        <item>notification_006</item>
+        <item>notification_007</item>
+        <item>notification_008</item>
+        <item>notification_009</item>
+        <item>notification_010</item>
+        <item>notification_011</item>
+        <item>notification_012</item>
+        <item>notification_013</item>
+        <item>notification_014</item>
+        <item>notification_015</item>
+        <item>alarm_001</item>
+        <item>alarm_002</item>
+        <item>alarm_003</item>
+        <item>alarm_004</item>
+        <item>alarm_005</item>
+        <item>alarm_006</item>
+        <item>alarm_007</item>
+        <item>alarm_008</item>
+    </string-array>
+    <string-array name="oppo_select_ringtone_new">
+        <item>Nydelse</item>
+        <item>Sjæl</item>
+        <item>Farverigt liv</item>
+        <item>Dans i vinden</item>
+        <item>Farverig dag</item>
+        <item>Eftermiddag</item>
+        <item>Vand</item>
+        <item>Sjov</item>
+        <item>Raslen</item>
+        <item>Fryd</item>
+        <item>Klassisk ringetone 1</item>
+        <item>Klassisk ringetone 2</item>
+        <item>Blid</item>
+        <item>Hjertelig</item>
+        <item>Sjovt</item>
+        <item>Solopgang</item>
+        <item>Fingertrommen</item>
+        <item>Nat</item>
+        <item>Smuk landsby</item>
+        <item>Barbara</item>
+        <item>Lykke</item>
+        <item>Spar</item>
+        <item>Buzz</item>
+        <item>Ekko</item>
+        <item>Xylofon</item>
+        <item>Akustisk guitar</item>
+        <item>Mira</item>
+        <item>Adara</item>
+        <item>Stråle</item>
+        <item>Frisk</item>
+        <item>Harpe</item>
+        <item>Tamburin</item>
+        <item>Fugle</item>
+        <item>Dråber</item>
+        <item>Fræk</item>
+        <item>Hav</item>
+        <item>Skov</item>
+        <item>Lys</item>
+        <item>Langt væk</item>
+        <item>Glædelig</item>
+        <item>Alarmbip</item>
+        <item>Morgen</item>
+        <item>Solrig eftermiddag</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>foretage opkald</item>
+        <item>læse opkaldsliste</item>
+        <item>læse kontakter</item>
+        <item>læse SMS/MMS</item>
+        <item>sende SMS</item>
+        <item>sende MMS</item>
+        <item>aktivere/deaktivere mobilnetværk</item>
+        <item>aktivere/deaktivere Wi-Fi-netværk</item>
+        <item>aktivere/deaktivere Bluetooth</item>
+        <item>hente din placering med GPS (NB: apps kan også hente din placering på anden vis)</item>
+        <item>bruge kameraet</item>
+        <item>optage lyd eller opkald</item>
+        <item>aktivere/deaktivere NFC</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>

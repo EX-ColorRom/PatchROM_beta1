@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="oppo_modify_pkg_perms">Дозвол на зміну</string>
+    <string name="oppo_modify_pkg_perms_detail">Виберіть Установки → Загальні → Менеджер програм, змінювати дозволи програми!</string>
+    <string name="oppo_usb_selection">Натисніть для зміни налаштувань USB</string>
+    <string name="oppo_usb_storage">Обсяг пам\'яті</string>
+    <string name="oppo_statusbar_key_swmgr">Менеджер програми</string>
+    <string name="oppo_rename_dialog_title">Перейменувати</string>
+    <string name="oppo_rename_dialog_btn_ok">OK</string>
+    <string name="oppo_rename_dialog_btn_cancel">Скасувати</string>
+    <string name="oppo_lunar_calendar_text">Місячний календар</string>
+    <string name="oppo_solar_calendar_text">Сонячний календар</string>
+    <string name="oppo_whichApplication">Виберіть програму, яку хочете використовувати</string>
+    <string name="oppo_alwaysUse" msgid="4583018368000610438">Використовуйте цю опцію за замовчуванням</string>
+    <string name="oppo_power_shutdown_text">Вимкнути</string>
+    <string name="oppo_power_vibrate_text">Вібросигнал</string>
+    <string name="oppo_power_slient_text">Без звуку</string>
+    <string name="oppo_power_airplanemode_text">Режим польоту</string>
+    <string name="oppo_power_ring_text">Дзвонити</string>
+    <string name="oppo_power_reboot_text">Перезапуск</string>
+    <string name="mmcmnc46001">UNICOM</string>
+    <string name="mmcmnc46000">CMCC</string>
+    <string name="mmcmnc46002">CMCC</string>
+    <string name="mmcmnc45406">Smartone-Vodafone</string>
+    <string name="mmcmnc45410">Новий Світ</string>
+    <string name="mmcmnc45412">CMCC Людей</string>
+    <string name="mmcmnc45415">SmarTone Mobile Comms</string>
+    <string name="mmcmnc45416">PCCW</string>
+    <string name="mmcmnc45419">PCCW</string>
+    <string name="mmcmnc45500">SmarTone</string>
+    <string name="mmcmnc45501">CTM</string>
+    <string name="mmcmnc45503">Hutchison</string>
+    <string name="mmcmnc45504">CTM</string>
+    <string name="mmcmnc45505">Hutchison</string>
+    <string name="oppo_permission_security_title">Попередження системи безпеки</string>
+    <string name="oppo_permission_security_label">"пробує"</string>
+    <string name="oppo_permission_settings_prompt">Будь ласка, встановіть параметри в \"Настройки-Загальні настройки-Безпека-Дозвіл монітора\"</string>
+    <string name="oppo_permission_choice_label">Запам`ятати цей вибір</string>
+    <string name="oppo_reject_text">Відхилити</string>
+    <string name="oppo_allow_text">Дозволити</string>
+    <string name="action_mode_done" msgid="7217581640461922289">"Готово"</string>
+    <string name="oppo_loading">Завантаження ...</string>
+    <string name="oppo_edittext_search">Пошук</string>
+    <string name="oppo_selecttext">Обрати</string>
+    <string name="oppo_warning_volume_hintstr_exp">Запам`ятати цей вибір</string>
+    <string name="oppo_sd_not_enough_title">Недостатньо місця для зберігання</string>
+    <string name="oppo_cancel_button_text">Скасувати</string>
+    <string name="mmcmnc46692">Chunghwa</string>
+    <string name="mmcmnc46697">TW Mobile</string>
+    <string name="oppo_data_notification_info">Натисніть для доступу до Менеджеру Програм.</string>
+</resources>

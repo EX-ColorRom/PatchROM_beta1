@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="oppo_select_ringtone_old">
+        <item>ringtone_001</item>
+        <item>ringtone_002</item>
+        <item>ringtone_003</item>
+        <item>ringtone_004</item>
+        <item>ringtone_005</item>
+        <item>ringtone_006</item>
+        <item>ringtone_007</item>
+        <item>ringtone_008</item>
+        <item>ringtone_009</item>
+        <item>ringtone_010</item>
+        <item>ringtone_011</item>
+        <item>ringtone_012</item>
+        <item>ringtone_013</item>
+        <item>ringtone_014</item>
+        <item>ringtone_015</item>
+        <item>ringtone_016</item>
+        <item>ringtone_017</item>
+        <item>ringtone_018</item>
+        <item>ringtone_019</item>
+        <item>ringtone_020</item>
+        <item>notification_001</item>
+        <item>notification_002</item>
+        <item>notification_003</item>
+        <item>notification_004</item>
+        <item>notification_005</item>
+        <item>notification_006</item>
+        <item>notification_007</item>
+        <item>notification_008</item>
+        <item>notification_009</item>
+        <item>notification_010</item>
+        <item>notification_011</item>
+        <item>notification_012</item>
+        <item>notification_013</item>
+        <item>notification_014</item>
+        <item>notification_015</item>
+        <item>alarm_001</item>
+        <item>alarm_002</item>
+        <item>alarm_003</item>
+        <item>alarm_004</item>
+        <item>alarm_005</item>
+        <item>alarm_006</item>
+        <item>alarm_007</item>
+        <item>alarm_008</item>
+    </string-array>
+    <string-array name="oppo_select_ringtone_new">
+        <item>لذت بردن</item>
+        <item>روح</item>
+        <item>زندگی رنگارنگ</item>
+        <item>رقصنده در باد</item>
+        <item>روز رنگارنگ</item>
+        <item>بعد از ظهر</item>
+        <item>آب</item>
+        <item>سرگرمی</item>
+        <item>هیاهو</item>
+        <item>شادی</item>
+        <item>آهنگ زنگ کلاسیک 1</item>
+        <item>آهنگ زنگ کلاسیک 2</item>
+        <item>آرام</item>
+        <item>دوستانه</item>
+        <item>سرگرم‌کننده</item>
+        <item>طلوع</item>
+        <item>پرش روی پنجه</item>
+        <item>شب</item>
+        <item>دهکده زیبا</item>
+        <item>باربارا</item>
+        <item>خوشی</item>
+        <item>اسپار</item>
+        <item>باز</item>
+        <item>پژواک</item>
+        <item>زیلوفون</item>
+        <item>گیتار آکوستیک</item>
+        <item>میرا</item>
+        <item>آدارا</item>
+        <item>پرتو</item>
+        <item>تازه</item>
+        <item>چنگ</item>
+        <item>دایره زنگی</item>
+        <item>پرندگان</item>
+        <item>قطره</item>
+        <item>ناقلا</item>
+        <item>دریا</item>
+        <item>جنگل</item>
+        <item>روشن</item>
+        <item>دوردست</item>
+        <item>شاد</item>
+        <item>بوق هشدار</item>
+        <item>صبح</item>
+        <item>بعد از ظهر آفتابی</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>تماس گرفتن</item>
+        <item>خواندن گزارش تماس</item>
+        <item>خواندن مخاطبان</item>
+        <item>خواندن SMS/MMS</item>
+        <item>فرستادن SMS</item>
+        <item>فرستادن MMS</item>
+        <item>فعال/غیرفعال کردن شبکه همراه</item>
+        <item>فعال/غیرفعال کردن شبکه Wi-Fi</item>
+        <item>فعال/غیرفعال کردن بلوتوث</item>
+        <item>گرفتن اطلاعات مکان با GPS (توجه: برنامه‌ها ممکن است برای گرفتن اطلاعات مکان شما از روش‌های دیگری نیز استفاده کنند)</item>
+        <item>از دوربین استفاده کن</item>
+        <item>ثبت صدا یا تماس</item>
+        <item>فعال/غیرفعال کردن NFC</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ق.ظ</item>
+        <item>ب.ظ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="oppo_modify_pkg_perms">権限変更</string>
+    <string name="oppo_modify_pkg_perms_detail">[設定]＞[一般]＞[アプリ]で権限を変更</string>
+    <string name="oppo_usb_selection">タップしてUSB設定を変更してください</string>
+    <string name="oppo_usb_charge">充電のみ</string>
+    <string name="oppo_usb_storage">ストレージデバイス</string>
+    <string name="oppo_usb_mtp">メディアデバイス (MTP)</string>
+    <string name="oppo_statusbar_key_swmgr">プログラム管理</string>
+    <string name="oppo_rename_dialog_title">名前を変更</string>
+    <string name="oppo_rename_dialog_btn_ok">OK</string>
+    <string name="oppo_rename_dialog_btn_cancel">キャンセル</string>
+    <string name="oppo_lunar_calendar_text">太陰暦</string>
+    <string name="oppo_solar_calendar_text">西暦</string>
+    <string name="oppo_selecttext">選択</string>
+    <string name="oppo_whichApplication">アプリケーションを選択</string>
+    <string name="oppo_alwaysUse" msgid="4583018368000610438">デフォルトのオプションとして使用</string>
+    <string name="oppo_power_shutdown_text">電源OFF</string>
+    <string name="oppo_power_vibrate_text">バイブレーション</string>
+    <string name="oppo_power_slient_text">サイレント</string>
+    <string name="oppo_power_airplanemode_text">機内モード</string>
+    <string name="oppo_power_ring_text">着信音</string>
+    <string name="oppo_power_reboot_text">再起動</string>
+    <string name="mmcmnc46001">中国聯通</string>
+    <string name="mmcmnc46000">中国移動</string>
+    <string name="mmcmnc46002">中国移動</string>
+    <string name="mmcmnc45406">Smartone-Vodafone</string>
+    <string name="mmcmnc45410">New World</string>
+    <string name="mmcmnc45412">中国移動 Peoples</string>
+    <string name="mmcmnc45415">SmarTone Mobile Comms</string>
+    <string name="mmcmnc45416">PCCW</string>
+    <string name="mmcmnc45419">PCCW</string>
+    <string name="mmcmnc45500">SmarTone</string>
+    <string name="mmcmnc45501">CTM</string>
+    <string name="mmcmnc45503">Hutchison</string>
+    <string name="mmcmnc45504">CTM</string>
+    <string name="mmcmnc45505">3</string>
+    <string name="mmcmnc46601">FarEasTone</string>
+    <string name="mmcmnc46688">KG Telecom</string>
+    <string name="mmcmnc46689">VIBO</string>
+    <string name="mmcmnc46692">Chunghwa</string>
+    <string name="mmcmnc46693">MobiTai</string>
+    <string name="mmcmnc46697">TW Mobile</string>
+    <string name="mmcmnc46699">TransAsia</string>
+    <string name="oppo_battery_charge_soc_fall">エリアメールSMSは無効になっています</string>
+    <string name="oppo_permission_security_title">セキュリティ警告</string>
+    <string name="oppo_permission_security_label">しようとしている</string>
+    <string name="oppo_permission_settings_prompt">\'権限管理\'の設定をできます</string>
+    <string name="oppo_permission_choice_label">選択を保存する</string>
+    <string name="oppo_reject_text">拒否</string>
+    <string name="oppo_allow_text">許可</string>
+    <string name="action_mode_done" msgid="7217581640461922289">完了</string>
+    <string name="oppo_wday_year_month_day" translatable="false">ローカルニュースは無効になっています</string>
+    <string name="oppo_wday_year_day_month" translatable="false">地域</string>
+    <string name="oppo_wday_month_day_year" translatable="false">地域ニュースは有効になっています</string>
+    <string name="oppo_wday_month_year_day" translatable="false">地域ニュースは無効になっています</string>
+    <string name="oppo_wday_day_month_year" translatable="false">国内</string>
+    <string name="oppo_wday_day_year_month" translatable="false">国内ニュースは有効になっています</string>
+    <string name="oppo_year_month_day_wday" translatable="false">国内ニュースは無効になっています</string>
+    <string name="oppo_year_day_month_wday" translatable="false">国際</string>
+    <string name="oppo_month_day_year_wday" translatable="false">国際ニュースは有効になっています</string>
+    <string name="oppo_month_year_day_wday" translatable="false">国際ニュースは無効になっています</string>
+    <string name="oppo_day_month_year_wday" translatable="false">言語</string>
+    <string name="oppo_day_year_month_wday" translatable="false">ニュースの言語の選択</string>
+    <string name="oppo_loading">読み込み中...</string>
+    <string name="oppo_volume_system_description">システム音量</string>
+    <string name="oppo_volume_unified_control">ユニバーサル音量調節</string>
+    <string name="oppo_edittext_IME">入力方法</string>
+    <string name="oppo_edittext_translate">翻訳</string>
+    <string name="oppo_edittext_search">検索</string>
+    <string name="oppo_warning_volume_hintstr_exp">選択を保存する</string>
+    <string name="oppo_sd_not_enough_title">ストレージが不足しています</string>
+    <string name="oppo_cancel_button_text">キャンセル</string>
+    <string name="oppo_sd_clean_button_text">タスク終了</string>
+    <string name="oppo_text_cut">テキストを切り取り</string>
+    <string name="oppo_text_copied">テキストをコピーしました</string>
+    <string name="oppo_data_notification_info">タップしてアプリ管理にアクセス</string>
+    <string name="oppo_data_not_enough_info">アプリケーション用のストレージがいっぱいです。一部の機能が正常に動かない場合があります。スペースを空けることを推奨します。</string>
+    <string name="oppo_data_not_enough_title">アプリをインストールするスペースがありません</string>
+    <string name="oppo_sd_notification_info">タップしてファイルマネージャにアクセス</string>
+    <string name="oppo_sd_not_enough_info">ストレージがいっぱいです。アプリケーションが正常に動かない場合があります。ファイルの整理を推奨します。</string>
+    <string name="oppo_data_manager_button_text">アプリを管理</string>
+</resources>

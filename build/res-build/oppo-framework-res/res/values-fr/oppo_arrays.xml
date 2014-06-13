@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="oppo_select_ringtone_old">
+        <item>sonnerie_001</item>
+        <item>sonnerie_002</item>
+        <item>sonnerie_003</item>
+        <item>sonnerie_004</item>
+        <item>sonnerie_005</item>
+        <item>sonnerie_006</item>
+        <item>sonnerie_007</item>
+        <item>sonnerie_008</item>
+        <item>sonnerie_009</item>
+        <item>sonnerie_010</item>
+        <item>sonnerie_011</item>
+        <item>sonnerie_012</item>
+        <item>sonnerie_013</item>
+        <item>sonnerie_014</item>
+        <item>sonnerie_015</item>
+        <item>sonnerie_016</item>
+        <item>sonnerie_017</item>
+        <item>sonnerie_018</item>
+        <item>sonnerie_019</item>
+        <item>sonnerie_020</item>
+        <item>notification_001</item>
+        <item>notification_002</item>
+        <item>notification_003</item>
+        <item>notification_004</item>
+        <item>notification_005</item>
+        <item>notification_006</item>
+        <item>notification_007</item>
+        <item>notification_008</item>
+        <item>notification_009</item>
+        <item>notification_010</item>
+        <item>notification_011</item>
+        <item>notification_012</item>
+        <item>notification_013</item>
+        <item>notification_014</item>
+        <item>notification_015</item>
+        <item>alarme_001</item>
+        <item>alarme_002</item>
+        <item>alarme_003</item>
+        <item>alarme_004</item>
+        <item>alarme_005</item>
+        <item>alarme_006</item>
+        <item>alarme_007</item>
+        <item>alarme_008</item>
+    </string-array>
+    <string-array name="oppo_select_ringtone_new">
+        <item>Bonheur</item>
+        <item>Soul</item>
+        <item>Vie rayonnante</item>
+        <item>Dansons dans le vent</item>
+        <item>Journée rayonnante</item>
+        <item>Après-midi</item>
+        <item>Eau</item>
+        <item>Fun</item>
+        <item>Lectro beat</item>
+        <item>Plaisir</item>
+        <item>Sonnerie classique 1</item>
+        <item>Sonnerie classique 2</item>
+        <item>Doux</item>
+        <item>Cordial</item>
+        <item>Amusant</item>
+        <item>Lever du soleil</item>
+        <item>Bouts des doigts</item>
+        <item>Nuit</item>
+        <item>Magnifique village</item>
+        <item>Barbara</item>
+        <item>Joie</item>
+        <item>Spar</item>
+        <item>Buzz</item>
+        <item>Écho</item>
+        <item>Xylophone</item>
+        <item>Guitare acoustique</item>
+        <item>Mira</item>
+        <item>Adara</item>
+        <item>Diffusion</item>
+        <item>Fraîcheur</item>
+        <item>Harpe</item>
+        <item>Tambourin</item>
+        <item>Oiseaux</item>
+        <item>Gouttes</item>
+        <item>Vilain</item>
+        <item>Bruit de la mer</item>
+        <item>Forêt</item>
+        <item>Lumière</item>
+        <item>Distance</item>
+        <item>Joie</item>
+        <item>Réveil électronique</item>
+        <item>Matin</item>
+        <item>Après-midi ensoleillé</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>Appeler</item>
+        <item>Lire journal d\'appels</item>
+        <item>Lire contacts</item>
+        <item>Lire SMS/MMS</item>
+        <item>Envoyer SMS</item>
+        <item>Envoyer MMS</item>
+        <item>Activer/désactiver réseau mobile</item>
+        <item>Activer/désactiver réseau Wi-Fi</item>
+        <item>Activer/désactiver Bluetooth</item>
+        <item>Localisation GPS (Remarque : Les applis peuvent utiliser d\'autres moyens de localisation)</item>
+        <item>Utiliser appareil photo</item>
+        <item>Enregistrer sons ou appels</item>
+        <item>Activer/désactiver NFC</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>
