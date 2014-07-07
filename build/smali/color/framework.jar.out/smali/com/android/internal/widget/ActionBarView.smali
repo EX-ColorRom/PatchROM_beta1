@@ -768,6 +768,49 @@
 
     return-object v0
 .end method
+.method static synthetic access$1000(Lcom/android/internal/widget/ActionBarView;)Landroid/view/View;
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    .line 70
+    iget-object v0, p0, Lcom/android/internal/widget/ActionBarView;->mCustomNavView:Landroid/view/View;
+
+    return-object v0
+.end method
+
+.method static synthetic access$1100(Lcom/android/internal/widget/ActionBarView;)I
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    .line 70
+    iget v0, p0, Lcom/android/internal/widget/ActionBarView;->mDisplayOptions:I
+
+    return v0
+.end method
+
+.method static synthetic access$1200(Lcom/android/internal/widget/ActionBarView;)V
+    .locals 0
+    .parameter "x0"
+
+    .prologue
+    .line 70
+    invoke-direct {p0}, Lcom/android/internal/widget/ActionBarView;->initTitle()V
+
+    return-void
+.end method
+
+.method static synthetic access$1300(Lcom/android/internal/widget/ActionBarView;)I
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    .line 70
+    iget v0, p0, Lcom/android/internal/widget/ActionBarView;->mNavigationMode:I
+
+    return v0
+.end method
 
 .method static synthetic access$200(Lcom/android/internal/widget/ActionBarView;)Lcom/android/internal/view/menu/ActionMenuItem;
     .locals 1
@@ -813,6 +856,27 @@
     return-object v0
 .end method
 
+.method static synthetic access$800(Lcom/android/internal/widget/ActionBarView;)Lcom/android/internal/widget/ScrollingTabContainerView;
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    .line 70
+    iget-object v0, p0, Lcom/android/internal/widget/ActionBarView;->mTabScrollView:Lcom/android/internal/widget/ScrollingTabContainerView;
+
+    return-object v0
+.end method
+
+.method static synthetic access$900(Lcom/android/internal/widget/ActionBarView;)Landroid/widget/Spinner;
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    .line 70
+    iget-object v0, p0, Lcom/android/internal/widget/ActionBarView;->mSpinner:Landroid/widget/Spinner;
+
+    return-object v0
+.end method
 .method private configPresenters(Lcom/android/internal/view/menu/MenuBuilder;)V
     .locals 4
     .parameter "builder"
@@ -6141,73 +6205,6 @@
 
     return v0
 .end method
-
-.method static synthetic access$1000(Lcom/android/internal/widget/ActionBarView;)Landroid/view/View;
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    .line 70
-    iget-object v0, p0, Lcom/android/internal/widget/ActionBarView;->mCustomNavView:Landroid/view/View;
-
-    return-object v0
-.end method
-
-.method static synthetic access$1100(Lcom/android/internal/widget/ActionBarView;)I
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    .line 70
-    iget v0, p0, Lcom/android/internal/widget/ActionBarView;->mDisplayOptions:I
-
-    return v0
-.end method
-
-.method static synthetic access$1200(Lcom/android/internal/widget/ActionBarView;)V
-    .locals 0
-    .parameter "x0"
-
-    .prologue
-    .line 70
-    invoke-direct {p0}, Lcom/android/internal/widget/ActionBarView;->initTitle()V
-
-    return-void
-.end method
-
-.method static synthetic access$1300(Lcom/android/internal/widget/ActionBarView;)I
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    .line 70
-    iget v0, p0, Lcom/android/internal/widget/ActionBarView;->mNavigationMode:I
-
-    return v0
-.end method
-
-.method static synthetic access$800(Lcom/android/internal/widget/ActionBarView;)Lcom/android/internal/widget/ScrollingTabContainerView;
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    .line 70
-    iget-object v0, p0, Lcom/android/internal/widget/ActionBarView;->mTabScrollView:Lcom/android/internal/widget/ScrollingTabContainerView;
-
-    return-object v0
-.end method
-
-.method static synthetic access$900(Lcom/android/internal/widget/ActionBarView;)Landroid/widget/Spinner;
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    .line 70
-    iget-object v0, p0, Lcom/android/internal/widget/ActionBarView;->mSpinner:Landroid/widget/Spinner;
-
-    return-object v0
-.end method
-
 .method hookSetTitleItem(ZZ)V
     .locals 2
     .parameter "showHome"
