@@ -1469,6 +1469,57 @@
     return-object v0
 .end method
 
+.method static synthetic access$900(Lcom/android/server/wm/WindowManagerService;ILandroid/view/WindowInfo;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+    .parameter "x2"
+
+    .prologue
+    .line 177
+    invoke-direct {p0, p1, p2}, Lcom/android/server/wm/WindowManagerService;->handleNotifyWindowTranstion(ILandroid/view/WindowInfo;)V
+
+    return-void
+.end method
+
+.method static synthetic access$1000(Lcom/android/server/wm/WindowManagerService;ILandroid/graphics/Rect;Z)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+    .parameter "x2"
+    .parameter "x3"
+
+    .prologue
+    .line 177
+    invoke-direct {p0, p1, p2, p3}, Lcom/android/server/wm/WindowManagerService;->handleNotifyRectangleOnScreenRequested(ILandroid/graphics/Rect;Z)V
+
+    return-void
+.end method
+
+.method static synthetic access$1100(Lcom/android/server/wm/WindowManagerService;Lcom/android/server/wm/DisplayContent;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    .line 177
+    invoke-direct {p0, p1}, Lcom/android/server/wm/WindowManagerService;->handleNotifyWindowLayersChanged(Lcom/android/server/wm/DisplayContent;)V
+
+    return-void
+.end method
+
+.method static synthetic access$1200(Lcom/android/server/wm/WindowManagerService;I)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    .line 177
+    invoke-direct {p0, p1}, Lcom/android/server/wm/WindowManagerService;->handleDisplayAddedLocked(I)V
+
+    return-void
+.end method
+
 .method static synthetic access$1300(Lcom/android/server/wm/WindowManagerService;I)V
     .locals 0
     .parameter "x0"
@@ -1493,6 +1544,28 @@
     return-void
 .end method
 
+.method static synthetic access$100(Lcom/android/server/wm/WindowManagerService;)V
+    .locals 0
+    .parameter "x0"
+
+    .prologue
+    .line 177
+    invoke-direct {p0}, Lcom/android/server/wm/WindowManagerService;->notifyFocusChanged()V
+
+    return-void
+.end method
+
+.method static synthetic access$2300(Lcom/android/server/wm/WindowManagerService;)Landroid/util/SparseArray;
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    .line 177
+    iget-object v0, p0, Lcom/android/server/wm/WindowManagerService;->mDisplayContents:Landroid/util/SparseArray;
+
+    return-object v0
+.end method
+
 .method static synthetic access$200(Lcom/android/server/wm/WindowManagerService;)V
     .locals 0
     .parameter "x0"
@@ -1511,6 +1584,66 @@
     .prologue
     .line 177
     invoke-direct {p0}, Lcom/android/server/wm/WindowManagerService;->stopFreezingDisplayLocked()V
+
+    return-void
+.end method
+
+.method static synthetic access$400(Lcom/android/server/wm/WindowManagerService;)Z
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    .line 177
+    iget-boolean v0, p0, Lcom/android/server/wm/WindowManagerService;->mWindowsChanged:Z
+
+    return v0
+.end method
+
+.method static synthetic access$402(Lcom/android/server/wm/WindowManagerService;Z)Z
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    .line 177
+    iput-boolean p1, p0, Lcom/android/server/wm/WindowManagerService;->mWindowsChanged:Z
+
+    return p1
+.end method
+
+.method static synthetic access$500(Lcom/android/server/wm/WindowManagerService;)V
+    .locals 0
+    .parameter "x0"
+
+    .prologue
+    .line 177
+    invoke-direct {p0}, Lcom/android/server/wm/WindowManagerService;->notifyWindowsChanged()V
+
+    return-void
+.end method
+
+.method static synthetic access$600(Lcom/android/server/wm/WindowManagerService;)Z
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    .line 177
+    invoke-direct {p0}, Lcom/android/server/wm/WindowManagerService;->copyAnimToLayoutParamsLocked()Z
+
+    move-result v0
+
+    return v0
+.end method
+
+.method static synthetic access$700(Lcom/android/server/wm/WindowManagerService;II)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+    .parameter "x2"
+
+    .prologue
+    .line 177
+    invoke-direct {p0, p1, p2}, Lcom/android/server/wm/WindowManagerService;->showStrictModeViolation(II)V
 
     return-void
 .end method
@@ -44542,139 +44675,6 @@
     move-result-object v0
 
     return-object v0
-.end method
-
-.method static synthetic access$100(Lcom/android/server/wm/WindowManagerService;)V
-    .locals 0
-    .parameter "x0"
-
-    .prologue
-    .line 177
-    invoke-direct {p0}, Lcom/android/server/wm/WindowManagerService;->notifyFocusChanged()V
-
-    return-void
-.end method
-
-.method static synthetic access$1000(Lcom/android/server/wm/WindowManagerService;ILandroid/graphics/Rect;Z)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-    .parameter "x2"
-    .parameter "x3"
-
-    .prologue
-    .line 177
-    invoke-direct {p0, p1, p2, p3}, Lcom/android/server/wm/WindowManagerService;->handleNotifyRectangleOnScreenRequested(ILandroid/graphics/Rect;Z)V
-
-    return-void
-.end method
-
-.method static synthetic access$1100(Lcom/android/server/wm/WindowManagerService;Lcom/android/server/wm/DisplayContent;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    .line 177
-    invoke-direct {p0, p1}, Lcom/android/server/wm/WindowManagerService;->handleNotifyWindowLayersChanged(Lcom/android/server/wm/DisplayContent;)V
-
-    return-void
-.end method
-
-.method static synthetic access$1200(Lcom/android/server/wm/WindowManagerService;I)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    .line 177
-    invoke-direct {p0, p1}, Lcom/android/server/wm/WindowManagerService;->handleDisplayAddedLocked(I)V
-
-    return-void
-.end method
-
-.method static synthetic access$2300(Lcom/android/server/wm/WindowManagerService;)Landroid/util/SparseArray;
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    .line 177
-    iget-object v0, p0, Lcom/android/server/wm/WindowManagerService;->mDisplayContents:Landroid/util/SparseArray;
-
-    return-object v0
-.end method
-
-.method static synthetic access$400(Lcom/android/server/wm/WindowManagerService;)Z
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    .line 177
-    iget-boolean v0, p0, Lcom/android/server/wm/WindowManagerService;->mWindowsChanged:Z
-
-    return v0
-.end method
-
-.method static synthetic access$402(Lcom/android/server/wm/WindowManagerService;Z)Z
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    .line 177
-    iput-boolean p1, p0, Lcom/android/server/wm/WindowManagerService;->mWindowsChanged:Z
-
-    return p1
-.end method
-
-.method static synthetic access$500(Lcom/android/server/wm/WindowManagerService;)V
-    .locals 0
-    .parameter "x0"
-
-    .prologue
-    .line 177
-    invoke-direct {p0}, Lcom/android/server/wm/WindowManagerService;->notifyWindowsChanged()V
-
-    return-void
-.end method
-
-.method static synthetic access$600(Lcom/android/server/wm/WindowManagerService;)Z
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    .line 177
-    invoke-direct {p0}, Lcom/android/server/wm/WindowManagerService;->copyAnimToLayoutParamsLocked()Z
-
-    move-result v0
-
-    return v0
-.end method
-
-.method static synthetic access$700(Lcom/android/server/wm/WindowManagerService;II)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-    .parameter "x2"
-
-    .prologue
-    .line 177
-    invoke-direct {p0, p1, p2}, Lcom/android/server/wm/WindowManagerService;->showStrictModeViolation(II)V
-
-    return-void
-.end method
-
-.method static synthetic access$900(Lcom/android/server/wm/WindowManagerService;ILandroid/view/WindowInfo;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-    .parameter "x2"
-
-    .prologue
-    .line 177
-    invoke-direct {p0, p1, p2}, Lcom/android/server/wm/WindowManagerService;->handleNotifyWindowTranstion(ILandroid/view/WindowInfo;)V
-
-    return-void
 .end method
 
 .method public reboot()V
