@@ -1651,6 +1651,17 @@
     return-void
 .end method
 
+.method synthetic constructor <init>(Lcom/android/server/am/ActivityManagerService$1;)V
+    .locals 0
+    .parameter "x0"
+
+    .prologue
+    .line 164
+    invoke-direct {p0}, Lcom/android/server/am/ActivityManagerService;-><init>()V
+
+    return-void
+.end method
+
 .method static synthetic access$000(Lcom/android/server/am/ActivityManagerService;)I
     .locals 1
     .parameter "x0"
@@ -1754,6 +1765,28 @@
     invoke-direct {p0, p1, p2}, Lcom/android/server/am/ActivityManagerService;->dispatchProcessDied(II)V
 
     return-void
+.end method
+
+.method static synthetic access$700(Ljava/util/ArrayList;)V
+    .locals 0
+    .parameter "x0"
+
+    .prologue
+    .line 178
+    invoke-static {p0}, Lcom/android/server/am/ActivityManagerService;->writeLastDonePreBootReceivers(Ljava/util/ArrayList;)V
+
+    return-void
+.end method
+
+.method static synthetic access$800(Lcom/android/server/am/ActivityManagerService;)Ljava/lang/StringBuilder;
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    .line 178
+    iget-object v0, p0, Lcom/android/server/am/ActivityManagerService;->mStrictModeBuffer:Ljava/lang/StringBuilder;
+
+    return-object v0
 .end method
 
 .method private appendDropBoxProcessHeaders(Lcom/android/server/am/ProcessRecord;Ljava/lang/String;Ljava/lang/StringBuilder;)V
@@ -71718,28 +71751,6 @@
     .catchall {:try_start_1 .. :try_end_1} :catchall_0
 
     goto :goto_1
-.end method
-
-.method static synthetic access$700(Ljava/util/ArrayList;)V
-    .locals 0
-    .parameter "x0"
-
-    .prologue
-    .line 178
-    invoke-static {p0}, Lcom/android/server/am/ActivityManagerService;->writeLastDonePreBootReceivers(Ljava/util/ArrayList;)V
-
-    return-void
-.end method
-
-.method static synthetic access$800(Lcom/android/server/am/ActivityManagerService;)Ljava/lang/StringBuilder;
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    .line 178
-    iget-object v0, p0, Lcom/android/server/am/ActivityManagerService;->mStrictModeBuffer:Ljava/lang/StringBuilder;
-
-    return-object v0
 .end method
 
 .method private sendBroadCastToForSkinChanged(I)V
