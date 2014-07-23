@@ -66,6 +66,7 @@
     <ForceUnpackNativeLibArray>kynam.ime.gotiengviet</ForceUnpackNativeLibArray> 
     <ForceUnpackNativeLibArray>com.google.android.inputmethod.latin</ForceUnpackNativeLibArray>
     <ForceUnpackNativeLibArray>com.google.android.inputmethod.pinyin</ForceUnpackNativeLibArray>
+    <ForceUnpackNativeLibArray>com.nuance.swype.oppo</ForceUnpackNativeLibArray>
 <!-- #endif //VENDOR_EDIT -->
      
 	 
